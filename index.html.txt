@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Magdalena Osik</title>    
+        <title>Magdalena Wróblewska</title>    
     </head>
     <body>
     <h1>Magdalena Osik</h1>
